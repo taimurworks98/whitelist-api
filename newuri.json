@@ -7,6 +7,50 @@
   "external_url": "https://www.genmeta.io",
   "edition": 1,
   "attributes": [
+        {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Original Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Baby Pacifier"
+    },
+    {
+      "trait_type": "Face Cover",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Outfit Bottom",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Outfit Top",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Samurai Sword Blue"
+    }
   ],
   "properties": {
     "files": [
