@@ -3,7 +3,7 @@
   "symbol": "Genmeta",
   "description": "Your first step into the Metaverse, Genmeta(Generation Metaverse) is a unique 3D Play To Earn(P2E) gaming NFT that will revolutionize the NFT space. Based on the Solana blockchain, we will combine the complex task of bringing together beautiful full-body 3D art, engaging storyline, financial utility, tokens, and gaming together for our buyers. Our handpicked team of experts from the USA to the UAE has years of experience creating 3D art, NFT's, and tokens on leading blockchain technologies.",
   "seller_fee_basis_points": 10,
-  "image": "image.png",
+  "image": "https://ipfs.infura.io/ipfs/QmRJVQYgD8Yx5HCzVRqR8xVNYC9hp2XTqBoosJWQKdHU6C",
   "external_url": "https://www.genmeta.io",
   "edition": 1,
   "attributes": [
